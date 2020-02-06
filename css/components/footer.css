@@ -1,0 +1,15 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: black;
+}
+
+.footer p {
+  color: grey;
+  font-size: 17px;
+}
+
+.footer a {
+  color: white;
+  font-size: 30px;
+}
